@@ -1,11 +1,4 @@
-{
-  "chainId": 101,
-  "address": "2T6vwSajccRRb4roAdqZqgZhtWdPqVQm8kjDUrSqMray",
-  "symbol": "THRN",
-  "name": "Ape of the Hill",
-  "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/ApeOfTheHill/apeofthehill-assets/main/apeofthehill.png"
-}
+
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
   "keywords": [
@@ -63,7 +56,22 @@
     }
   },
   "timestamp": "2021-03-03T19:57:21+0000",
-  "tokens": [
+  "tokens": [{
+  "chainId": 101,
+  "address": "ExistingTokenAddress",
+  "symbol": "ABC",
+  "name": "Example Token",
+  "decimals": 9,
+  "logoURI": "https://linktoimage.png"
+},
+{
+  "chainId": 101,
+  "address": "2T6vwSajccRRb4roAdqZqgZhtWdPqVQm8kjDUrSqMray",
+  "symbol": "THRN",
+  "name": "Ape of the Hill",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/ApeOfTheHill/apeofthehill-assets/main/apeofthehill.png"
+}
     {
       "chainId": 101,
       "address": "3SghkPdBSrpF9bzdAy5LwR4nGgFbqNcC6ZSq8vtZdj91",
