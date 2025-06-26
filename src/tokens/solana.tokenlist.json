@@ -5,7 +5,7 @@
   "name": "Ape of the Hill",
   "decimals": 9,
   "logoURI": "https://github.com/ApeOfTheHill/apeofthehill-assets/raw/1082288361485804556100b0bb29991a0882d344/Download%20Logo%20(256x256%20PNG)"
-}
+} 
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
   "keywords": [
@@ -29684,11 +29684,4 @@
       "address": "4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA",
       "symbol": "HEADS",
       "name": "Space Heads Coin",
-      "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA/logo.svg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "discord": "https://discord.gg/spaceheads",
-        "in
+      "decima
