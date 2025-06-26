@@ -77,10 +77,11 @@
   "extensions": {
     "coingeckoId": "ape-of-the-hill",
     "coinmarketcap": "https://coinmarketcap.com/currencies/ape-of-the-hill/",
-    "discord": "https://t.me/ApeOfTheHill",
+    "telegram": "https://t.me/ApeOfTheHill",
     "twitter": "https://twitter.com/apeofthehill",
     "website": "https://apeofthehill.com"
   }
+}
 }
     {
       "chainId": 101,
@@ -29686,17 +29687,4 @@
       "symbol": "HEAD",
       "name": "Heads Coin",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AELJZ6bGcTRMzA4qHPZzqmfQ7eKDz47wNtzjDG5tqkRR/logo.svg",
-      "tags": [
-        "utility-token"
-      ],
-      "extensions": {
-        "discord": "https://discord.gg/spaceheads",
-        "instagram": "https://www.instagram.com/space_heads_nft/",
-        "twitter": "https://twitter.com/space_heads_nft",
-        "website": "https://spaceheads.co"
-      }
-    },
-    {
-      "chainId": 101,
-      "address": 
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AELJZ6bGcTRMzA4qHPZzqmfQ7eKDz47wNtzjDG5tqkRR/
