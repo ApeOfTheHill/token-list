@@ -4,8 +4,8 @@
   "symbol": "THRN",
   "name": "Ape of the Hill",
   "decimals": 9,
-  "logoURI": "https://github.com/ApeOfTheHill/apeofthehill-assets/raw/1082288361485804556100b0bb29991a0882d344/Download%20Logo%20(256x256%20PNG)"
-} 
+  "logoURI": "https://raw.githubusercontent.com/ApeOfTheHill/apeofthehill-assets/main/apeofthehill.png"
+}
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
   "keywords": [
@@ -29684,4 +29684,4 @@
       "address": "4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA",
       "symbol": "HEADS",
       "name": "Space Heads Coin",
-      "decima
+      "decim
