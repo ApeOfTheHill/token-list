@@ -70,7 +70,17 @@
   "symbol": "THRN",
   "name": "Ape of the Hill",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/ApeOfTheHill/apeofthehill-assets/main/apeofthehill.png"
+  "logoURI": "https://raw.githubusercontent.com/ApeOfTheHill/apeofthehill-assets/main/assets/mainnet/2T6vwSajccRRb4roAdqZqgZhtWdPqVQm8kjDUrSqMray/logo.png",
+  "tags": [
+    "meme-token"
+  ],
+  "extensions": {
+    "coingeckoId": "ape-of-the-hill",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ape-of-the-hill/",
+    "discord": "https://t.me/ApeOfTheHill",
+    "twitter": "https://twitter.com/apeofthehill",
+    "website": "https://apeofthehill.com"
+  }
 }
     {
       "chainId": 101,
@@ -29689,7 +29699,4 @@
     },
     {
       "chainId": 101,
-      "address": "4HecfhYXWiRhfJyjfRAufrxkRocBgwDzRmYAzCLS3VDA",
-      "symbol": "HEADS",
-      "name": "Space Heads Coin",
-      "decim
+      "address": 
